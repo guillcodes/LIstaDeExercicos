@@ -3,7 +3,16 @@ Aluno: Guilherme Candida de Amorim
 Exercicio: 08
 Descricao: Jogo de adivinhacao com dicas de maior ou menor.
 Data: 09/09/2026
+
+/*
+Estrutura de repeticao:
+O do/while repete os palpites enquanto o usuario nao acertar.
+
+Estrutura de decisao:
+O if/else verifica se o palpite e menor, maior
+ou igual ao numero sorteado.
 */
+
 
 #include <stdio.h>
 #include <stdlib.h>

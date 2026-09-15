@@ -14,6 +14,18 @@ Ordem:
 10 centavos
 5 centavos
 1 centavo
+
+
+Decomposicao:
+1. Ler o valor do troco.
+2. Calcular quantas moedas de 25 cabem.
+3. Calcular o valor que sobrou.
+4. Repetir o processo com moedas de 10 e 5.
+5. O valor restante sera pago com moedas de 1.
+
+Estrategia gulosa:
+Sempre escolhemos primeiro a moeda de maior valor.
+Assim buscamos usar a menor quantidade de moedas.
 */
 
 #include <stdio.h>
