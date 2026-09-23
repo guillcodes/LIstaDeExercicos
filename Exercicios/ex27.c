@@ -27,7 +27,7 @@ int main() {
 
     printf("\nValores digitados:\n");
     printf("Inteiro: %d\n", inteiro);
-    printf("Decimal: %.2lf\n", decimal);
+    printf("Decimal: %.2f\n", decimal);
     printf("Caractere: %c\n", caractere);
     printf("Texto: %s\n", texto);
 
