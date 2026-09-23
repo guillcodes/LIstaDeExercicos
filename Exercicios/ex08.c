@@ -3,6 +3,7 @@ Aluno: Guilherme Candida de Amorim
 Exercicio: 08
 Descricao: Jogo de adivinhacao com dicas de maior ou menor.
 Data: 09/09/2026
+*/
 
 /*
 Estrutura de repeticao:

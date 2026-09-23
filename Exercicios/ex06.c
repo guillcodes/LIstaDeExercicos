@@ -3,17 +3,11 @@ Aluno: Guilherme Candida de Amorim
 Exercicio: 06
 Descricao: Calcula a soma de 1 ate N usando while e formula matematica.
 Data: 09/09/2026
+*/
+
 /*
 O codigo original usa for para somar de 1 ate N.
-
-Reescrevendo com while:
-o contador comeca em 1 e continua ate N.
-
-Usando a formula:
-soma = N * (N + 1) / 2
-
-A formula e mais eficiente porque calcula o resultado
-diretamente, sem precisar repetir N vezes.
+...
 */
 
 #include <stdio.h>
